@@ -1,0 +1,3 @@
+/home/moxcelix/Documents/projects/tcp-epoll-test/build/CMakeFiles/tcp_epoll_test.dir
+/home/moxcelix/Documents/projects/tcp-epoll-test/build/CMakeFiles/edit_cache.dir
+/home/moxcelix/Documents/projects/tcp-epoll-test/build/CMakeFiles/rebuild_cache.dir
